@@ -1,9 +1,9 @@
 <p align="center">
 <img src="./favicon.ico" width="200" height="200"/>
 </p>
-<h1 align="center">XJTUSE-GUIDE</h1>
+<h1 align="center">Single Source of Truth</h1>
 
-> 西安交通大学软件学院学习指南
+> a gopher's single source of truth
 
-[GitHub](https://github.com/Xjtuse-Guide/Xjtuse-Guide)
+[GitHub](https://github.com/kevinandjady/single-source-of-truth)
 [开始阅读](README)
